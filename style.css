@@ -18,7 +18,7 @@ hr.my-2{
   font-family: 'Montserrat', sans-serif;
   position: absolute;
   top: 0;
-  right: 10%;
+  margin-left: 2.0rem;
 }
 .navbar-nav li {
   padding-right: 20px;
@@ -129,6 +129,9 @@ h5.copyright{
   }
   .profile-text{
     padding-left: 1.0rem;
+  }
+  .navbar-toggler{
+    background: #d5d5d5
   }
 }
 @media (max-width: 576px) {
