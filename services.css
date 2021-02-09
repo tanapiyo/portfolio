@@ -1,0 +1,23 @@
+.service-title{
+    font-family: 'Dosis', sans-serif;
+    font-size: 5rem;
+}
+
+.img-service{
+    width: 300px;
+    display: inline-block;
+}
+
+.p-service{
+    display: inline-block;
+    max-width: 600px;
+    margin-bottom: 100px;
+}
+
+.btn-border-container{
+    text-align: center;
+}
+.btn-border {
+    margin: 0 auto;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,20 @@
+.profile-title{
+    font-family: 'Dosis', sans-serif;
+    font-size: 5rem;
+}
+.profile-img{
+    width: 100px;
+    display: inline-block;
+}
+
+.profile-hr{
+    width: 15%;
+}
+
+.btn-border-container{
+    text-align: center;
+}
+.btn-border {
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
